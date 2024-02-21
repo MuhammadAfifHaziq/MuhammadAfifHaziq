@@ -67,7 +67,7 @@
 
 - PC Assembly [Lab](https://docs.google.com/document/d/1T_b0mAwcN5qvGbOflfEOQ5VJ8FjwAo5N/edit?usp=sharing&ouid=116829159479047397267&rtpof=true&sd=true)
 
-- Design Thinking [Low Fidelity Prototype](),
+- Design Thinking
 [Report](https://drive.google.com/file/d/1krjDdRX674eRxVWDrJMsOnI13ouZcN-8/view?usp=sharing), 
 [Video](https://youtu.be/hNUlz_gqBk0?si=2Y9B3G8vRbGyEeo9)
 
@@ -76,14 +76,9 @@
 
 <h3 align="center">Reflection</h3>
 
-<p>I have gained a lot of knowledge from the industrial talk for UTMDigital as well as the System Development at Credence. It has increase my knowledge
-in the fields of Software Engineering especially behind the scene of how a software is planned, developed and deployed. The industrial visit at Indah Water was very
-eye opening as I understood the usage of technology in maintaining a recycle water facility into drinkable water. PC Assembly assignment allows me to use real world skills
-to operate on my own computer to clean and repair it. Finally the design thinking assignments have gave me experience to work in a team and understand empathy which is
-surprisingly important in implementing into a design of a solution.</p><p align="left"></p> 
+<p>I have gained a lot of knowledge from the industrial talk for UTMDigital and System Development at Credence. The industrial talk has increased my knowledge of sofware engineering like how the software is planned,developed and implemented. The industrial visit at Indah Water has also helped me realize that the system used to facilitate the facility at Indah Water is also related to software engineering. Furthermore, the PC Assembly assignments increase my knowledge on how to repair and clean my own computer. Lastly the Design Thinking assignments help in experiencing working in a team to design a solution.</p><p align="left"></p> 
 
-<p>For further improvement, I suggest more industrial visit to technological places like Microsoft or Google office located in Malaysia. This would be very
-informative for the software students.</p><p align="left"></p> 
+<p>For further improvement, I suggest for more Industrial visit to places like Microsoft or Google in Malaysia as it can be more informative for software engineering students.</p><p align="left"></p> 
 
 <p align="left"></p>
 <!--
